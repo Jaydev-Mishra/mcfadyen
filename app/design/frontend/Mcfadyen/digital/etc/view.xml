@@ -90,6 +90,10 @@
                 <width>240</width>
                 <height>300</height>
             </image>
+            <image id="swatch_image" type="swatch_image">
+               <width>52</width>
+               <height>63</height>
+            </image>
             <image id="product_swatch_image_small" type="thumbnail">
                 <width>88</width>
                 <height>110</height>
